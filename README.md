@@ -147,6 +147,10 @@ MutualFundAnalytics/
 
 ![Benchmark Analysis](screenshots/benchmark_analysis.png)
 
+### 🤖 AI Insights
+
+![AI Insights](screenshots/ai_insights.png)
+
 ---
 
 ## 📈 Financial Metrics Used
